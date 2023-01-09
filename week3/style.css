@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: cyan;
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+}
+h1 {
+    color: red;
+}
