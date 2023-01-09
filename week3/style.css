@@ -2,11 +2,11 @@
     box-sizing: border-box;
 }
 body {
-    background-color: #A0C3D2;
+    background-image: url("images/bg.png");
     background-repeat: no-repeat;
     background-position: right top;
     background-attachment: fixed;
 }
 h1 {
-    color: red;
+    color: tomato;
 }
