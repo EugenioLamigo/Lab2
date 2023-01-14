@@ -17,7 +17,7 @@
 .profile-box{
     background: #579BB1;
     text-align: center;
-    padding: 40px 90px;
+    padding: 50px 90px;
     color: #fff;
     position: relative;
     border-radius: 20px;
@@ -82,7 +82,7 @@
 }
 .mypic{
     width: 150px;
-    border-radius: 30%;
+    border-radius: 35%;
     background: #fff;
     padding: 6px;
     margin-top: 40px;
