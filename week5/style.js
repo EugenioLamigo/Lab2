@@ -1,4 +1,4 @@
-var menu = documnet.getElementById("menu");
+var menu = document.getElementById("menu");
 
 function openmenu(){
     menu.style.top = "17%";

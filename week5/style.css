@@ -33,6 +33,7 @@
     position: absolute;
     right: 40px;
     top: 40 px;
+    cursor: pointer;
 }
 .menu-box{
     width: 80%;
