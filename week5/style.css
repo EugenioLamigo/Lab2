@@ -82,10 +82,10 @@
 }
 .mypic{
     width: 150px;
-    border-radius: 50%;
+    border-radius: 30%;
     background: #fff;
     padding: 6px;
-    margin-top; 40px;
+    margin-top: 40px;
 }
 .more-info{
     background: #fff;
@@ -103,7 +103,7 @@
     cursor: pointer;
 }
 .profile-box button{
-    background: #color;
+    background: color;
     color: #579BB1;
     border: none;
     outline: none;
