@@ -5,12 +5,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>WEBPROG LAB2</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.js">
 
 </head>
 <body>
     <div class="bg">
         <div class="profile-box">
-            <img src="images/menu.png" class="menu-icon">
+            <img src="images/menu.png" class="menu-icon" onclick="openmenu()">
+            <div class="menu-box" id="menu">
+                <div class="right-links">
+                    <img src="images/close.png" onclick="closemenu()">
+                </div>
+                <div class="menu-links">
+                    <a href="#">Home</a>
+                    <a href="#">Services</a>
+                    <a href="#">Contact</a>
+                </div>
+            </div>
             <img src="images/settings.png" class="settings-icon">
             <img src="images/image.png" class="mypic">
             <h3>Eugenio C. Lamigo III</h3>
@@ -31,7 +42,6 @@
         </div>
     </div>
 <script>
-    
 
 </script>
 </body>
