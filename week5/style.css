@@ -124,3 +124,13 @@
     width: 30px;
     margin: 30px 5px;
 }
+.umay{
+    font-size: 18px;
+    font-display: 10%;
+    background-color:#4b11de;
+    width:40px;
+    height:120px;
+    padding:50px;
+    margin-left: 50px;
+    position:relative;
+}

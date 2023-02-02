@@ -42,6 +42,8 @@
                     My most recent accomplishment is partly due to my insatiable curiosity<br> and resolve to put knowledge into practice.</p>
             </div>
         </div>
+        <div class = "umay" onmouseover="mOver(this)" onmouseout="mOut(this)">
+        Mouse Over Me</div>
     </div>
 <script>
 var menu = document.getElementById("menu");
@@ -53,6 +55,13 @@ function closemenu(){
     menu.style.top = "-100vh";
 }
 alert("This website is sacred")
+function mOver(obj) {
+  obj.innerHTML = "gotcha"
+}
+
+function mOut(obj) {
+  obj.innerHTML = "cursor on me"
+}
 </script>
 </body>
 </html>
