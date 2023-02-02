@@ -126,11 +126,22 @@
 }
 .umay{
     font-size: 18px;
-    font-display: 10%;
-    background-color:#4b11de;
-    width:40px;
-    height:120px;
-    padding:50px;
+    background-color: rgb(248, 0, 165);
+    width: 40px;
+    height: 120px;
+    padding: 50px;
     margin-left: 50px;
-    position:relative;
+}
+.button button{
+    background: color;
+    color: #3c01ea;
+    border: none;
+    outline: none;
+    box-shadow: 0 5px 10px rgb(153, 0, 205);
+    padding: 15px 60px;
+    cursor: pointer;
+    border-radius: 30px;
+    margin-bottom: -50px;
+    font-weight: 600;
+    font-size: 16px;
 }
